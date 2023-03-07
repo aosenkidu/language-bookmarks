@@ -10,7 +10,9 @@ A list of bookmarks of interesting programming languages - often tiny to be embe
   - Runtime contains a JS parser
 - mJS bigger than both - https://github.com/cesanta/mjs
   - but includes parser in the runtime as well
-
+- Hardware, TODO: shift into its own project?
+  - http://www.espruino.com/
+  
 ## Scriptable Game Engines (or Simulators)
 Mostly collected for research about embeddable languages
 - Vasalle Engine -  https://vassalengine.org/on  - looks like XConq
