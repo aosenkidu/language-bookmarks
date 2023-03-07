@@ -19,6 +19,7 @@ A list of bookmarks of interesting programming languages - often tiny to be embe
 ## Scriptable Game Engines (or Simulators)
 Mostly collected for research about embeddable languages
 - Vasalle Engine -  https://vassalengine.org/on  - looks like XConq
+- https://love2d.org/ - uses Lua, written in C++ - also iOS
 
 ## Collection of mini languages
 ### Mini Micro
