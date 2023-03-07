@@ -23,3 +23,8 @@ Mostly collected for research about embeddable languages
 
 ## Obscure Languages, just here for reference
 - A kind of TCL, urg :( - but it is so tiny it is kind of funny: http://antirez.com/picol/picol.c.txt
+
+## SDL GUI Library - and stuff on top of it
+- https://github.com/mozeal/SDL_gui kind of App Framework on top of SDL
+- GUI library, Gaphical App Framework, supporting SDL: https://libagar.org/
+- 
