@@ -17,3 +17,6 @@ Mostly collected for research about embeddable languages
 
 ## Modell Driven Software Architecture MD(S)A
 - UMLET - https://github.com/umlet/umlet
+
+## OSes and other software for IoT devices
+- https://mongoose-os.com/
