@@ -21,13 +21,16 @@ Mostly collected for research about embeddable languages
 - Vasalle Engine -  https://vassalengine.org/on  - looks like XConq
 - https://love2d.org/ - uses Lua, written in C++ - also iOS
 
+### Big Data Engine - well, no idea why it is below Game Engine :P
+- https://en.wikipedia.org/wiki/Tarantool
+
 ## Collection of mini languages
 ### Mini Micro
 - https://luminaryapps.com/blog/miniscript-why/ as the name says. OO, FO fucntions, Unicode strings, lists and maps.
   - or on GH: https://github.com/JoeStrout/miniscript
   - there is even a Mini Computer Simulator running the language: https://miniscript.org/wiki/Mini_Micro - looks impressiv with various panels for text and graphics
   - https://itch.io/games/tag-minimicro
-  - 
+  
 ## Modell Driven Software Architecture MD(S)A
 - UMLET - https://github.com/umlet/umlet
 
