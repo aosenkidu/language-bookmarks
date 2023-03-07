@@ -20,3 +20,6 @@ Mostly collected for research about embeddable languages
 
 ## OSes and other software for IoT devices
 - https://mongoose-os.com/
+
+## Obscure Languages, just here for reference
+- A kind of TCL, urg :( - but it is so tiny it is kind of funny: http://antirez.com/picol/picol.c.txt
