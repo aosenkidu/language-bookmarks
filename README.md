@@ -10,8 +10,11 @@ A list of bookmarks of interesting programming languages - often tiny to be embe
   - Runtime contains a JS parser
 - mJS bigger than both - https://github.com/cesanta/mjs
   - but includes parser in the runtime as well
+  
+## Hardware running JS
 - Hardware, TODO: shift into its own project?
   - http://www.espruino.com/
+  - https://auth0.com/blog/javascript-for-microcontrollers-and-iot-part-1/
   
 ## Scriptable Game Engines (or Simulators)
 Mostly collected for research about embeddable languages
