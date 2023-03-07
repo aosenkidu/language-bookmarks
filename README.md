@@ -31,4 +31,10 @@ Mostly collected for research about embeddable languages
 - Hm, not sure if that is really SDL related: https://github.com/ocornut/imgui
   - however portable and supports many backends, except iOS
 - Example on Mac for dear imgui: https://martin-fieber.de/blog/gui-development-with-cpp-sdl2-and-dear-imgui/
-- 
+
+## Other GUI libraries
+- https://github.com/lvgl in C but hadware / OS agnostic
+
+## Build Tools, Build Systems
+- https://scons.org/ Python based, tailored for Fortran, C and C++
+ 
