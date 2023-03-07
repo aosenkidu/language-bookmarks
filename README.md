@@ -22,6 +22,7 @@ Mostly collected for research about embeddable languages
 
 ## Collection of mini languages
 - https://luminaryapps.com/blog/miniscript-why/ as the name says. OO, FO fucntions, Unicode strings, lists and maps.
+  - or on GH: https://github.com/JoeStrout/miniscript
 
 ## Modell Driven Software Architecture MD(S)A
 - UMLET - https://github.com/umlet/umlet
