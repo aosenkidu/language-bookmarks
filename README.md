@@ -20,6 +20,9 @@ A list of bookmarks of interesting programming languages - often tiny to be embe
 Mostly collected for research about embeddable languages
 - Vasalle Engine -  https://vassalengine.org/on  - looks like XConq
 
+## Collection of mini languages
+- https://luminaryapps.com/blog/miniscript-why/ as the name says. OO, FO fucntions, Unicode strings, lists and maps.
+
 ## Modell Driven Software Architecture MD(S)A
 - UMLET - https://github.com/umlet/umlet
 
