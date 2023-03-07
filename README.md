@@ -27,4 +27,8 @@ Mostly collected for research about embeddable languages
 ## SDL GUI Library - and stuff on top of it
 - https://github.com/mozeal/SDL_gui kind of App Framework on top of SDL
 - GUI library, Gaphical App Framework, supporting SDL: https://libagar.org/
+- some example for using Dear I'mGUI, see below: https://github.com/Tyyppi77/imgui_sdl
+- Hm, not sure if that is really SDL related: https://github.com/ocornut/imgui
+  - however portable and supports many backends, except iOS
+- Example on Mac for dear imgui: https://martin-fieber.de/blog/gui-development-with-cpp-sdl2-and-dear-imgui/
 - 
