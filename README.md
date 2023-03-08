@@ -57,3 +57,6 @@ Mostly collected for research about embeddable languages
  
 ## Qt - downloads
 - https://download.qt-project.org/official_releases/qt/
+
+## Cloud provider in Berlin based on FastAPI
+- https://deta.space
