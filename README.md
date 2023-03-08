@@ -55,3 +55,5 @@ Mostly collected for research about embeddable languages
 ## Build Tools, Build Systems
 - https://scons.org/ Python based, tailored for Fortran, C and C++
  
+## Qt - downloads
+- https://download.qt-project.org/official_releases/qt/
